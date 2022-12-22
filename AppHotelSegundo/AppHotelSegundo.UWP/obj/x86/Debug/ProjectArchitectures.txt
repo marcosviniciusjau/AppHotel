@@ -1,1 +1,0 @@
-C:\Users\Marcos Vinicius\source\repos\AppHotelSegundo\Nova pasta\AppHotelSegundo\AppHotelSegundo.UWP\AppHotelSegundo.UWP.csproj;x86
